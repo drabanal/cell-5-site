@@ -78,7 +78,7 @@
                                             </li>
                                         </ul>
                                         <p class="team-member-bio">
-                                            Pat is the newest member to Cell 5. He's specialized in REST API development and integration but can put his hands in just about anything. Always get the job done.
+                                            Pat is the newest member to Cell 5. He's specialized in REST API development and integration but can put his hands to just about anything. Always get the job done.
                                         </p>
                                     </article>
                                 </div>
@@ -105,7 +105,7 @@
                                             </li>
                                         </ul>
                                         <p class="team-member-bio">
-                                            She is a skilled designer who is passionate about arts. She's interested in different kinds of visuals and focuses in UI/UX designing.
+                                            She is a skilled designer who is passionate about arts. She's interested in different kinds of visuals and focuses on UI/UX designing.
                                         </p>
                                     </article>
                                 </div>
